@@ -36,7 +36,9 @@ export async function generateMetadata({ params }) {
     : `${baseUrl}${post.coverImage || '/og-image.png'}`
 
   return {
-    title: `${post.title} | GTA 6 Fan Hub`,
+    title: {
+      absolute: `${post.title} | GTA 6 Fan Hub`,
+    },
     description: post.excerpt,
     keywords: post.tags || ['GTA 6', 'Vice City', 'Grand Theft Auto VI'],
     alternates: {

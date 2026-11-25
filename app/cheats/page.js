@@ -4,7 +4,9 @@ import CheatsClientPage from './CheatsClientPage'
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://gta6fanpage.com'
 
 export const metadata = {
-  title: 'GTA 6 Cheat Codes: Confirmed Cheats & Controller Combos (PS5 & Xbox)',
+  title: {
+    absolute: 'GTA 6 Cheat Codes: Confirmed Cheats & Controller Combos (PS5 & Xbox)',
+  },
   description:
     'Complete GTA 6 cheat codes list for PlayStation 5 and Xbox Series X/S. Verified D-Pad button sequences, activation instructions, and trophy warnings.',
   keywords: [

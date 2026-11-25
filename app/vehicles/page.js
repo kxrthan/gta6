@@ -4,7 +4,9 @@ import VehiclesClientPage from './VehiclesClientPage'
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://gta6fanpage.com'
 
 export const metadata = {
-  title: 'GTA 6 Vehicles Database: Confirmed Cars, Supercars & Police Cruisers',
+  title: {
+    absolute: 'GTA 6 Vehicles Database: Confirmed Cars, Supercars & Police Cruisers',
+  },
   description:
     'Explore the complete GTA 6 vehicle database featuring confirmed cars, supercars, muscle cars, bikes, and VCPD police cruisers spotted in Vice City and Leonida.',
   keywords: [
