@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "$250,000",
+    "description": "Instantly gives you $250,000 in-game cash.",
+    "category": "Player",
+    "ps5": "↑ → ↓ ← ↑ ← ↓ →",
+    "xbox": "↑ → ↓ ← ↑ ← ↓ →",
+    "pc": null,
+    "combo": "Up, Right, Down, Left, Up, Left, Down, Right",
+    "effect": "Instantly gives you $250,000",
+    "warning": "Using cheats disables Trophies and Achievements for the active session"
+  },
+  {
+    "id": 2,
+    "name": "Unlimited Focus",
+    "description": "Special ability meter stays locked at maximum.",
+    "category": "Player",
+    "ps5": "↓ ↑ ↑ ↓ ↑ ↓ ↑ ↓ ↑ →",
+    "xbox": "↓ ↑ ↑ ↓ ↑ ↓ ↑ ↓ ↑ →",
+    "pc": null,
+    "combo": "Down, Up, Up, Down, Up, Down, Up, Down, Up, Right",
+    "effect": "Your Focus never runs out",
+    "warning": "Using cheats disables Trophies and Achievements for the active session"
+  },
+  {
+    "id": 3,
+    "name": "Attack Force",
+    "description": "Bullets and melee attacks launch targets with extreme kinetic force on impact.",
+    "category": "Weapons",
+    "ps5": "↓ ↑ ← ← → ↓ ↓ ↑ ↓",
+    "xbox": "↓ ↑ ← ← → ↓ ↓ ↑ ↓",
+    "pc": null,
+    "combo": "Down, Up, Left, Left, Right, Down, Down, Up, Down",
+    "effect": "Bullets and melee attacks launch targets on impact",
+    "warning": "Using cheats disables Trophies and Achievements for the active session"
+  },
+  {
+    "id": 4,
+    "name": "Cycle Weather",
+    "description": "Cycles through sunny, rain, thunderstorm, smog, and overcast weather conditions.",
+    "category": "World",
+    "ps5": "↓ → ↑ ↓ → ↑ →",
+    "xbox": "↓ → ↑ ↓ → ↑ →",
+    "pc": null,
+    "combo": "Down, Right, Up, Down, Right, Up, Right",
+    "effect": "Switches through the weather conditions",
+    "warning": "Using cheats disables Trophies and Achievements for the active session"
+  }
+]
